@@ -24,4 +24,4 @@ module.exports = {
     'import/extensions': 'off',
     'no-useless-constructor': 'off',
   },
-};
+};   
